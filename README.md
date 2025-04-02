@@ -81,5 +81,7 @@ Both work (assuming you have anaconda installed), but the later is prefered beca
 ## **6. All done!**
 That wraps up the workshop! I have some example Python code to run (also in this repo) using what you've learned about Python virtual environments and requirements files. If you have any questions, please feel free to reach out to me or Dr. Otani!
 
+For more information about Python virtual environments (especially for non-Unix machines), please check out this website: https://docs.python.org/3/library/venv.html 
+
 
 
