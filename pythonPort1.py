@@ -1,4 +1,9 @@
 import numpy as np
+import pandas as pd
+import matplotlib as plt
+import scipy
+import astropy
+import lightkurve
 
 #Tell user what this program is doing
 print("Calculator for the dust-corrected absolute magnitude of a galaxy! ")
