@@ -20,8 +20,8 @@ Let's get started!!!!
 
 First, check that you have Python installed on your computer by using the following command:
 
-'''console
+```console
 python3 -V
-'''
+```
 
 The output should say Python 3.##.## (depending on which version you have)
